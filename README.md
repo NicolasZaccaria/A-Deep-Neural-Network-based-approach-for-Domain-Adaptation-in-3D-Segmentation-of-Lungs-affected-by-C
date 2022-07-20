@@ -2,7 +2,7 @@
 ## Overview
 
 <div align="center">
-  <img src="./resources/main.png" width="800" height="450">
+  <img src="./resources/main_img.png" width="800" height="450">
 </div>
 This repository provides the Jupyter Notebooks with the code of the algorithm described in the paper:
 
