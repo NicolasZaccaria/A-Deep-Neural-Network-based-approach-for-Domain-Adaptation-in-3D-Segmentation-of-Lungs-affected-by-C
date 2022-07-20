@@ -1,0 +1,1 @@
+# A-Deep-Neural-Network-based-approach-for-Domain-Adaptation-in-3D-Segmentation-of-Lungs-affected-by-C
