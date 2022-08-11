@@ -25,6 +25,7 @@ The ***first time only*** this code is executed it is fundamental to prepare the
  1. creating appropriate paths to store input samples
  2. applying the volume normalization to rescale all the samples to the same dimensions 
  3. saving each slice of each orthogonal axis as `.npy` format
+ 
 For future tests, the `preprocess_dataset` parameter has to be switched to `False`.
 
 Intesity normalization and enchancements of the input samples are applied in real-time by the DataLoader. 
