@@ -21,6 +21,7 @@ In this section it is explained how to use the implemented code with a more in d
 
 #### all_tests
 This Jupyter notebook has been implemented to be runned all in once with the purpose of testing different pre-processing techniques, architectures and hyper-parameters by choosing the desired settings in the initial configuration panel.
+
 The ***first time only*** this code is executed it is fundamental to prepare the datasets by setting `preprocess_dataset=True`; this operation, usefull to reduce the training and testing time, consists in:
  1. creating appropriate paths to store input samples
  2. applying the volume normalization to rescale all the samples to the same dimensions 
