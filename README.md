@@ -11,8 +11,8 @@ Stefano Giagu et al. "A Deep Neural Network based approach for Domain Adaptation
 ```
 
 ## Contents
-- placeholder contains the code used to train and test the different settings analyzed in the article
-- placeholder contain the code used to train and test the proposed method
+- `all_tests` contains the code used to train and test the different settings analyzed in the article
+- `final_train` contain the code used to train and test the proposed method
 
 The trained model of our algorithm is stored on [Google Drive](https://drive.google.com/).
 
