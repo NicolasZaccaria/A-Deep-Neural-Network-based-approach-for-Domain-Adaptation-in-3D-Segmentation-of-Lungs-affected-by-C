@@ -38,4 +38,4 @@ The code implemented in this file is a simplified version of `all_tests` where a
 
 ## Contact
 
-For any request, please contact placeholder at placeholder@placeholder.
+For any request, please contact Professor Stefano Giagu at stefano.giagu@uniroma1.it.
